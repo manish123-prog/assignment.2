@@ -1,4 +1,4 @@
-# assignment.2
+#assignment.2
 Class Node:
 def init(self,data):
 self.data = data;
